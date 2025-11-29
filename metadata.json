@@ -1,0 +1,8 @@
+{
+  "name": "Turkagram",
+  "description": "Türk kullanıcılar için yapay zeka destekli fotoğraf paylaşım platformu. Gemini ile akıllı başlıklar oluşturun.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
